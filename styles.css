@@ -1,0 +1,31 @@
+body {
+    background-image: url("./images/bg.jpg");
+    background-size: cover;
+  }
+  #egg {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  #basket {
+    width: 100px;
+    height: 100px;
+    margin-top: 520px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  .hideImage {
+    visibility: hidden;
+  }
+  p ,span{
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 30px;
+  }
